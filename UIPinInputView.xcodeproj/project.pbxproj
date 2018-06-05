@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		5C9F632020C6C8A000630000 /* UIPinInputView.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C9F631E20C6C8A000630000 /* UIPinInputView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5C9F632720C6C8BF00630000 /* UIPinInputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9F632620C6C8BF00630000 /* UIPinInputView.swift */; };
+		5CB1040920C6D844004F6F40 /* UIPinInputView.swift in Resources */ = {isa = PBXBuildFile; fileRef = 5C9F632620C6C8BF00630000 /* UIPinInputView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CB1040920C6D844004F6F40 /* UIPinInputView.swift in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
